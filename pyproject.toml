@@ -9,6 +9,7 @@ readme = "README.md"
 python = "3.11.3"
 open-interpreter = "0.1.17"
 pandas = "^2.1.4"
+openpyxl = "^3.1.2"
 
 
 [build-system]
