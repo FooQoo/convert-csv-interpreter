@@ -6,8 +6,8 @@ authors = ["FooQoo <horseshoes.buzz.17@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
-open-interpreter = "^0.2.0"
+python = "3.11.3"
+open-interpreter = "0.1.17"
 
 
 [build-system]
